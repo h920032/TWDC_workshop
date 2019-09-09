@@ -9,8 +9,8 @@
 * 03 - Xarray_Modify
 
 ### Author
-|H.Y Shih|Taiwan
+|H.Y Shih|施星宇
 |---|---
 |Undergraduate | National Taiwan University
-|Department of Information Management|Forest and Environment Resources Conservation
+|Department|Information Management, Forest and Environment Resources Conservation
 |Email|h920032@gmail.com|
