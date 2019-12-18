@@ -14,7 +14,7 @@
 * 05 - Other_tools
 
 ### Author
-|h920032|H.Y Shih|
+|h920032|H.Y Shih
 |---|---  
 |Undergraduate | National Taiwan University (NTU)  
 |Department|Information Management (Major)  
